@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Muhammad Fiaz",
+  title: "Ashutosh Hathidara",
   logo_name: "AshutoshHathidara",
-  nickname: "Fiaz",
+  nickname: "layman_brother",
   subTitle:
-    "Results-oriented Design Estimation Engineer with a proven track record of developing and implementing standardized design estimation processes, resulting in significant time and cost savings. Collaborative team player skilled in analyzing customer requirements, negotiating with vendors, and mitigating project risks to drive customer satisfaction and repeat business. Adept at identifying cost-saving measures and adopting innovative design solutions to improve project performance and profitability",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -87,16 +87,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Construction Cost Estimator",
+      title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Quantity Surveying",
-        "⚡ Bill of Quantities (BOQ)",
-        "⚡ Cost Estimation",
-        "⚡ Tendering",
-        "⚡ Construction Management ",
-        "⚡ Contract Administration",
-        "⚡ Bill of Materials (BOM)",
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
@@ -136,15 +132,12 @@ const skills = {
       ],
     },
     {
-      title: "Construction Material Takeoffs & Estimations",
-      fileName: "Comprehensive Construction Material Takeoffs and Estimations",
+      title: "Full Stack Development",
+      fileName: "FullStackImg",
       skills: [
-        "⚡ Concrete, Reinforcement, and Formwork Takeoffs",
-        "⚡ Masonry, Brickwork, and Blockwork",
-        "⚡ Drywall, Ceiling, and Partition Walls",
-        "⚡ Floor Finishes, Tiling, and Stone Finishes",
-        "⚡ Painting, Rendering, and Cladding",
-        "⚡ Doors, Windows, and Glazing",
+        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
         {
